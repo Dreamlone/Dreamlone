@@ -23,4 +23,4 @@ My accounts on other platforms:
 * [kaggle](https://www.kaggle.com/dreamlone)
 * [drivendata](https://www.drivendata.org/users/Dreamlone/)
 
-Focusing on AutoML solutions and ready to help you with FEDOT integration :D
+Focusing on AutoML solutions and ready to help you with FEDOT integration :smile:
