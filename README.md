@@ -18,9 +18,6 @@ Habr:
 - [Прогнозирование временных рядов с помощью AutoML](https://habr.com/ru/post/559796/) (rus) - NSS Lab post 
 - [Алгоритм ранжирования сегментов речной сети с использованием графов для геоинформационного анализа](https://habr.com/ru/post/514526/) (rus)
 
-My accounts on other platforms: 
-* [scholar.google](https://scholar.google.com/citations?user=zHMQXt8AAAAJ&hl=ru)
-* [kaggle](https://www.kaggle.com/dreamlone)
-* [drivendata](https://www.drivendata.org/users/Dreamlone/)
+My accounts on other platforms: [scholar.google](https://scholar.google.com/citations?user=zHMQXt8AAAAJ&hl=eng), [kaggle](https://www.kaggle.com/dreamlone), [drivendata](https://www.drivendata.org/users/Dreamlone/)
 
 Focusing on AutoML solutions and ready to help you with FEDOT integration :smile:
