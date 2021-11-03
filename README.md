@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mike </h1>
 
-<h2 align="center">ML engineer and PhD student (computer science) at ITMO Iniversity</h2>
+<h2 align="center">ML engineer and PhD student (computer science) at ITMO University</h2>
 
 Developer of the AutoML framework [FEDOT](https://github.com/nccr-itmo/FEDOT) from [NSS Lab](https://itmo-nss-team.github.io/). My skills are related to the processing of time series and satellite images. But I also do the typical Data Science tasks :) 
 
