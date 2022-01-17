@@ -4,11 +4,13 @@
 
 Developer of the AutoML framework [FEDOT](https://github.com/nccr-itmo/FEDOT) from [NSS Lab](https://itmo-nss-team.github.io/). My skills are related to the processing of time series and satellite images. But I also do the typical Data Science tasks :) 
 
-I write, along with my colleagues, not only scientific papers, but also posts on TowardsDataScience, Medium and Habr. 
+I write, along with my colleagues, not only scientific papers, but also posts on Towards Data Science, Medium and Habr. 
 
-TDS:
+Towards Data Science:
 - [AutoML for time series: definitely a good idea](https://towardsdatascience.com/automl-for-time-series-definitely-a-good-idea-c51d39b2b3f) (eng) - NSS Lab post
 - [AutoML for time series: advanced approaches with FEDOT framework](https://towardsdatascience.com/automl-for-time-series-advanced-approaches-with-fedot-framework-4f9d8ea3382c) (eng) - NSS Lab post
+- [Winning a Flood-Forecasting Hackathon with Hydrology and AutoML](https://towardsdatascience.com/winning-a-flood-forecasting-hackathon-with-hydrology-and-automl-156a8a7a4ede) (eng) - NSS Lab post
+- [One more approach to optimize neural networks](https://towardsdatascience.com/one-more-approach-to-optimize-neural-networks-1dd173703301) (eng)
 
 Medium:
 - [The Algorithm for Ranking the Segments of the River Network for Geographic Information Analysis Based on Graphs](https://medium.com/swlh/the-algorithm-for-ranking-the-segments-of-the-river-network-for-geographic-information-analysis-b25cffb0d167?sk=f1475802bd96f8d14c994a6f87f7453d) (eng)
