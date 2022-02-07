@@ -22,4 +22,8 @@ Habr:
 
 My accounts on other platforms: [scholar.google](https://scholar.google.com/citations?user=zHMQXt8AAAAJ&hl=eng), [kaggle](https://www.kaggle.com/dreamlone), [drivendata](https://www.drivendata.org/users/Dreamlone/)
 
-Focusing on AutoML solutions and ready to help you with FEDOT integration :smile:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336CA5F&duration=9000&width=850&height=55&lines=+Focusing+on+AutoML+solutions+and+ready+to+help+you+with+FEDOT+integration)](https://git.io/typing-svg)
+
+![Metrics](/github-metrics.svg)
+
+![](https://komarev.com/ghpvc/?username=Dreamlone)
