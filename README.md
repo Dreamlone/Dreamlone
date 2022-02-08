@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mike </h1>
 
-<h2 align="center">ML engineer and PhD student (computer science) at ITMO University</h2>
+<h2 align="center">AI/ML researcher and PhD student (computer science) at ITMO University</h2>
 
 Developer of the AutoML framework [FEDOT](https://github.com/nccr-itmo/FEDOT) from [NSS Lab](https://itmo-nss-team.github.io/). My skills are related to the processing of time series and satellite images. But I also do the typical Data Science tasks :) 
 
@@ -22,8 +22,7 @@ Habr:
 
 My accounts on other platforms: [scholar.google](https://scholar.google.com/citations?user=zHMQXt8AAAAJ&hl=eng), [kaggle](https://www.kaggle.com/dreamlone), [drivendata](https://www.drivendata.org/users/Dreamlone/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336CA5F&duration=9000&width=850&height=55&lines=+Focusing+on+AutoML+solutions+and+ready+to+help+you+with+FEDOT+integration)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327BE65&size=22&duration=9000&width=1000&height=70&lines=Focusing+on+AutoML+solutions+and+ready+to+help+you+with+FEDOT+integration)](https://git.io/typing-svg)
 ![Metrics](/github-metrics.svg)
 
 ![](https://komarev.com/ghpvc/?username=Dreamlone)
