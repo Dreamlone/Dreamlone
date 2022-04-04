@@ -16,6 +16,7 @@ Medium:
 - [The Algorithm for Ranking the Segments of the River Network for Geographic Information Analysis Based on Graphs](https://medium.com/swlh/the-algorithm-for-ranking-the-segments-of-the-river-network-for-geographic-information-analysis-b25cffb0d167?sk=f1475802bd96f8d14c994a6f87f7453d) (eng)
 
 Habr:
+- [Чистый AutoML для “грязных” данных: как и зачем автоматизировать предобработку таблиц в машинном обучении](https://habr.com/ru/company/ods/blog/657525/) (rus) - NSS Lab post 
 - [Как мы “повернули реки вспять” на Emergency DataHack 2021, объединив гидрологию и AutoML](https://habr.com/ru/post/577886/) (rus) - NSS Lab post 
 - [Прогнозирование временных рядов с помощью AutoML](https://habr.com/ru/post/559796/) (rus) - NSS Lab post 
 - [Алгоритм ранжирования сегментов речной сети с использованием графов для геоинформационного анализа](https://habr.com/ru/post/514526/) (rus)
