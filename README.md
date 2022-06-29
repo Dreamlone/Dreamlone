@@ -7,6 +7,7 @@ Developer of the AutoML framework [FEDOT](https://github.com/nccr-itmo/FEDOT) fr
 I write, along with my colleagues, not only scientific papers, but also posts on Towards Data Science, Medium and Habr. 
 
 Towards Data Science:
+- [Hyperparameters Tuning for Machine Learning Model Ensembles](https://towardsdatascience.com/hyperparameters-tuning-for-machine-learning-model-ensembles-8051782b538b) (eng) - NSS Lab post
 - [Clean AutoML for “Dirty” Data: How and why to automate preprocessing of tables in machine learning](https://towardsdatascience.com/clean-automl-for-dirty-data-how-and-why-to-automate-preprocessing-of-tables-in-machine-learning-d79ac87780d3) (eng) - NSS Lab post
 - [One more approach to optimize neural networks](https://towardsdatascience.com/one-more-approach-to-optimize-neural-networks-1dd173703301) (eng)
 - [Winning a Flood-Forecasting Hackathon with Hydrology and AutoML](https://towardsdatascience.com/winning-a-flood-forecasting-hackathon-with-hydrology-and-automl-156a8a7a4ede) (eng) - NSS Lab post
@@ -17,6 +18,7 @@ Medium:
 - [The Algorithm for Ranking the Segments of the River Network for Geographic Information Analysis Based on Graphs](https://medium.com/swlh/the-algorithm-for-ranking-the-segments-of-the-river-network-for-geographic-information-analysis-b25cffb0d167?sk=f1475802bd96f8d14c994a6f87f7453d) (eng)
 
 Habr:
+- [Про настройку гиперпараметров ансамблей моделей машинного обучения](https://habr.com/ru/post/672486/) (rus) - NSS Lab post
 - [Чистый AutoML для “грязных” данных: как и зачем автоматизировать предобработку таблиц в машинном обучении](https://habr.com/ru/company/ods/blog/657525/) (rus) - NSS Lab post 
 - [Как мы “повернули реки вспять” на Emergency DataHack 2021, объединив гидрологию и AutoML](https://habr.com/ru/post/577886/) (rus) - NSS Lab post 
 - [Прогнозирование временных рядов с помощью AutoML](https://habr.com/ru/post/559796/) (rus) - NSS Lab post 
