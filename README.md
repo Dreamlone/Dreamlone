@@ -1,10 +1,16 @@
 <h1 align="center">Hi, I'm Mike </h1>
 
-<h2 align="center">AI/ML researcher and PhD student (computer science) at ITMO University</h2>
+<h2 align="center">AI/ML engineer and researcher </h2>
 
-Developer of the AutoML framework [FEDOT](https://github.com/nccr-itmo/FEDOT) from [NSS Lab](https://itmo-nss-team.github.io/). My skills are related to the processing of time series and satellite images. But I also do the typical Data Science tasks :) 
+Senior Data Scientist at Wiredhut.
+My skills are related to the spatio-temporal data analysis. 
+But I also do the typical Data Science tasks :)
 
-I write, along with my colleagues, not only scientific papers, but also posts on Towards Data Science, Medium and Habr. 
+Some open-source developments in which I have been or am involved:
+- [x] AutoML framework [FEDOT](https://github.com/nccr-itmo/FEDOT)
+- [x] Time series benchmark [pytsbe](https://github.com/ITMO-NSS-team/pytsbe)
+
+I write, along with my colleagues, posts on Towards Data Science, Medium and Habr. 
 
 Towards Data Science:
 - [Hyperparameters Tuning for Machine Learning Model Ensembles](https://towardsdatascience.com/hyperparameters-tuning-for-machine-learning-model-ensembles-8051782b538b) (eng) - NSS Lab post
@@ -26,7 +32,7 @@ Habr:
 
 My accounts on other platforms: [scholar.google](https://scholar.google.com/citations?user=zHMQXt8AAAAJ&hl=eng), [kaggle](https://www.kaggle.com/dreamlone), [drivendata](https://www.drivendata.org/users/Dreamlone/)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327BE65&size=22&duration=9000&width=1000&height=70&lines=Focusing+on+AutoML+solutions+and+ready+to+help+you+with+FEDOT+integration)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=2EDC81&width=435&lines=Love+open-source+and+everything+related+to+it)](https://git.io/typing-svg)
 ![Metrics](/github-metrics.svg)
 
 ![](https://komarev.com/ghpvc/?username=Dreamlone)
