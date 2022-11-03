@@ -13,6 +13,7 @@ Some open-source developments in which I have been or am involved:
 I write, along with my colleagues, posts on Towards Data Science, Medium and Habr. 
 
 Towards Data Science:
+- [What to Do If a Time Series Is Growing (But Not in Length)](https://medium.com/towards-data-science/what-to-do-if-a-time-series-is-growing-but-not-in-length-421fc84c6893) (eng) - NSS Lab post
 - [Hyperparameters Tuning for Machine Learning Model Ensembles](https://towardsdatascience.com/hyperparameters-tuning-for-machine-learning-model-ensembles-8051782b538b) (eng) - NSS Lab post
 - [Clean AutoML for “Dirty” Data: How and why to automate preprocessing of tables in machine learning](https://towardsdatascience.com/clean-automl-for-dirty-data-how-and-why-to-automate-preprocessing-of-tables-in-machine-learning-d79ac87780d3) (eng) - NSS Lab post
 - [One more approach to optimize neural networks](https://towardsdatascience.com/one-more-approach-to-optimize-neural-networks-1dd173703301) (eng)
@@ -24,6 +25,7 @@ Medium:
 - [The Algorithm for Ranking the Segments of the River Network for Geographic Information Analysis Based on Graphs](https://medium.com/swlh/the-algorithm-for-ranking-the-segments-of-the-river-network-for-geographic-information-analysis-b25cffb0d167?sk=f1475802bd96f8d14c994a6f87f7453d) (eng)
 
 Habr:
+- [Что делать, если твой временной ряд растёт вширь](https://habr.com/ru/post/696336/) (rus) - NSS Lab post
 - [Про настройку гиперпараметров ансамблей моделей машинного обучения](https://habr.com/ru/post/672486/) (rus) - NSS Lab post
 - [Чистый AutoML для “грязных” данных: как и зачем автоматизировать предобработку таблиц в машинном обучении](https://habr.com/ru/company/ods/blog/657525/) (rus) - NSS Lab post 
 - [Как мы “повернули реки вспять” на Emergency DataHack 2021, объединив гидрологию и AutoML](https://habr.com/ru/post/577886/) (rus) - NSS Lab post 
