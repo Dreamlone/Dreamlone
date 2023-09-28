@@ -6,12 +6,12 @@ Senior Data Scientist at Wiredhut.
 My skills are related to the spatio-temporal data analysis. 
 But I also do the typical Data Science tasks :) 
 
-I have experience in backend development, can do simple one-page websites. However, my 
-main focus is a combination of machine learning and backend development in Python
+I have experience in backend development, can do simple one-page websites (fronted skills). My 
+main focus is a "combination of machine learning and backend" development using Python
 
 My tech stack: [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), 
 [scikit-learn](https://scikit-learn.org/stable/), [MLFlow](https://mlflow.org/), [Dask](https://www.dask.org/), [alembic](https://alembic.sqlalchemy.org/en/latest/),
-[docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/)
+[docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), etc.
 
 Some open-source developments in which I have been or am involved:
 - [x] AutoML framework [FEDOT](https://github.com/nccr-itmo/FEDOT)
