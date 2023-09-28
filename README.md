@@ -4,12 +4,22 @@
 
 Senior Data Scientist at Wiredhut.
 My skills are related to the spatio-temporal data analysis. 
-But I also do the typical Data Science tasks :)
+But I also do the typical Data Science tasks :) 
+
+I have experience in backend development, can do simple one-page websites. However, my 
+main focus is a combination of machine learning and backend development in Python
+
+My tech stack: [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), 
+[scikit-learn](https://scikit-learn.org/stable/), [MLFlow](https://mlflow.org/), [Dask](https://www.dask.org/), [alembic](https://alembic.sqlalchemy.org/en/latest/),
+[docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/)
 
 Some open-source developments in which I have been or am involved:
 - [x] AutoML framework [FEDOT](https://github.com/nccr-itmo/FEDOT)
 - [x] Time series benchmark [pytsbe](https://github.com/ITMO-NSS-team/pytsbe)
 - [x] ETL (Extract, Transform, Load) library [wiredflow](https://github.com/wiredhut/wiredflow)
+- [x] Library for spatial data fusion and processing for real estate objects [estaty](https://github.com/red5ai/estaty)
+- [x] Module for filling gaps in matrices (applied mostly for remote sensing data) based on machine learning and spatial
+   relations [SSGP-toolbox](https://github.com/Dreamlone/SSGP-toolbox)
 
 I write, along with my colleagues, posts on Towards Data Science, Medium and Habr. 
 
