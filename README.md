@@ -6,12 +6,14 @@ Senior Data Scientist at Wiredhut.
 My skills are related to the spatio-temporal data analysis. 
 But I also do the typical Data Science tasks :) 
 
-I have experience in backend development, can do simple one-page websites (fronted skills). My 
-main focus is a "combination of machine learning and backend" development using Python
+I have experience in backend development, can do simple one-page websites (fronted skills). Well skilled 
+in architecture design and programming in general (patterns, OOP, SOLID, TDD, git) and ML systems in particular. My 
+main focus is a "combination of machine learning and backend development" using Python. Experienced in R&D (have more than 30 publications).
 
 My tech stack: [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), 
-[scikit-learn](https://scikit-learn.org/stable/), [MLFlow](https://mlflow.org/), [Dask](https://www.dask.org/), [alembic](https://alembic.sqlalchemy.org/en/latest/),
-[docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/), [MongoDB](https://www.mongodb.com/), etc.
+[scikit-learn](https://scikit-learn.org/stable/), [networkx](https://networkx.org/), [PyTorch](https://pytorch.org/), [MLFlow](https://mlflow.org/), [Dask](https://www.dask.org/), [SQLAlchemy](https://www.sqlalchemy.org/), [alembic](https://alembic.sqlalchemy.org/en/latest/),
+[docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/), 
+[MongoDB](https://www.mongodb.com/), [GDAL](https://gdal.org/), [QGIS](https://qgis.org/en/site/), [LaTex](https://www.latex-project.org/) etc.
 
 Some open-source developments in which I have been or am involved:
 - [x] AutoML framework [FEDOT](https://github.com/nccr-itmo/FEDOT)
