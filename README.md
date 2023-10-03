@@ -26,6 +26,7 @@ Some open-source developments in which I have been or am involved:
 I write, along with my colleagues, posts on Towards Data Science, Medium and Habr. 
 
 Towards Data Science:
+- [Combining Open Street Map and Landsat open data to verify areas of green zones](https://medium.com/towards-data-science/combining-open-street-map-and-landsat-open-data-to-verify-areas-of-green-zones-b1956e561321) (eng)
 - [What to Do If a Time Series Is Growing (But Not in Length)](https://medium.com/towards-data-science/what-to-do-if-a-time-series-is-growing-but-not-in-length-421fc84c6893) (eng) - NSS Lab post
 - [Hyperparameters Tuning for Machine Learning Model Ensembles](https://towardsdatascience.com/hyperparameters-tuning-for-machine-learning-model-ensembles-8051782b538b) (eng) - NSS Lab post
 - [Clean AutoML for “Dirty” Data: How and why to automate preprocessing of tables in machine learning](https://towardsdatascience.com/clean-automl-for-dirty-data-how-and-why-to-automate-preprocessing-of-tables-in-machine-learning-d79ac87780d3) (eng) - NSS Lab post
