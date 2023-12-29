@@ -26,6 +26,7 @@ Some open-source developments in which I have been or am involved:
 I write, along with my colleagues, posts on Towards Data Science, Medium and Habr. 
 
 Towards Data Science:
+- [A Data Science Course Project About Crop Yield and Price Prediction I’m Still Not Ashamed Of](https://medium.com/towards-data-science/a-data-science-course-project-about-crop-yield-and-price-prediction-im-still-not-ashamed-of-75712dc8696f) (eng)
 - [Almost Everything You Want to Know About Partition Size of Dask Dataframes](https://medium.com/towards-data-science/almost-everything-you-want-to-know-about-partition-size-of-dask-dataframes-ac1b136d7674) (eng)
 - [Proximity Analysis to Find the Nearest Bar Using Python](https://medium.com/towards-data-science/proximity-analysis-to-find-the-nearest-bar-using-python-a29d29a3754d) (eng)
 - [Combining Open Street Map and Landsat open data to verify areas of green zones](https://medium.com/towards-data-science/combining-open-street-map-and-landsat-open-data-to-verify-areas-of-green-zones-b1956e561321) (eng)
