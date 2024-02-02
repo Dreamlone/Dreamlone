@@ -22,6 +22,7 @@ Some open-source developments in which I have been or am involved:
 - [x] Library for spatial data fusion and processing for real estate objects [estaty](https://github.com/red5ai/estaty)
 - [x] Module for filling gaps in matrices (applied mostly for remote sensing data) based on machine learning and spatial
    relations [SSGP-toolbox](https://github.com/Dreamlone/SSGP-toolbox)
+- [x] QGIS plugin for river stream ordering (or any vector linear system) [Lines Ranking](https://github.com/ChrisLisbon/QGIS_LinesRankingPlugin)
 
 I write, along with my colleagues, posts on Towards Data Science, Medium and Habr. 
 
