@@ -27,6 +27,7 @@ Some open-source developments in which I have been or am involved:
 I write, along with my colleagues, posts on Towards Data Science, Medium and Habr. 
 
 Towards Data Science:
+- [Stream Ordering: How And Why a Geo-Scientist Sometimes Needed to Rank Rivers on a Map](https://medium.com/towards-data-science/stream-ordering-how-and-why-a-geo-scientist-sometimes-needed-to-rank-rivers-on-a-map-360dce356df5) (eng)
 - [A Data Science Course Project About Crop Yield and Price Prediction I’m Still Not Ashamed Of](https://medium.com/towards-data-science/a-data-science-course-project-about-crop-yield-and-price-prediction-im-still-not-ashamed-of-75712dc8696f) (eng)
 - [Almost Everything You Want to Know About Partition Size of Dask Dataframes](https://medium.com/towards-data-science/almost-everything-you-want-to-know-about-partition-size-of-dask-dataframes-ac1b136d7674) (eng)
 - [Proximity Analysis to Find the Nearest Bar Using Python](https://medium.com/towards-data-science/proximity-analysis-to-find-the-nearest-bar-using-python-a29d29a3754d) (eng)
