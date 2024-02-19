@@ -44,6 +44,7 @@ Medium:
 - [The Algorithm for Ranking the Segments of the River Network for Geographic Information Analysis Based on Graphs](https://medium.com/swlh/the-algorithm-for-ranking-the-segments-of-the-river-network-for-geographic-information-analysis-b25cffb0d167?sk=f1475802bd96f8d14c994a6f87f7453d) (eng)
 
 Habr:
+- [Data Scientist in Helsinki. Мое небольшое исследование про поиск работы в Финляндии в 2024 году](https://habr.com/ru/articles/792620/) (rus)
 - [“Ну и долго мне ещё до магазина?” Или пара слов о геоинформационном анализе с помощью Python](https://habr.com/ru/articles/770216/) (rus)
 - [Объединение открытых данных Open Street Map и Landsat для уточнения площадей зеленых зон](https://habr.com/ru/articles/764686/) (rus)
 - [Что делать, если твой временной ряд растёт вширь](https://habr.com/ru/post/696336/) (rus) - NSS Lab post
