@@ -19,7 +19,7 @@ Some open-source developments in which I have been or am involved:
 - [x] AutoML framework [FEDOT](https://github.com/nccr-itmo/FEDOT)
 - [x] Time series benchmark [pytsbe](https://github.com/ITMO-NSS-team/pytsbe)
 - [x] ETL (Extract, Transform, Load) library [wiredflow](https://github.com/wiredhut/wiredflow)
-- [x] Library for spatial data fusion and processing for real estate objects [estaty](https://github.com/red5ai/estaty)
+- [x] Library for spatial data fusion and processing for real estate objects [estaty](https://github.com/wiredhut/estaty)
 - [x] Module for filling gaps in matrices (applied mostly for remote sensing data) based on machine learning and spatial
    relations [SSGP-toolbox](https://github.com/Dreamlone/SSGP-toolbox)
 - [x] QGIS plugin for river stream ordering (or any vector linear system) [Lines Ranking](https://github.com/ChrisLisbon/QGIS_LinesRankingPlugin)
