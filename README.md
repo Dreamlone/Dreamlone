@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Mike </h1>
 
-<h2 align="center">AI/ML engineer and researcher </h2>
+<h2 align="center">Software developer and ML engineer </h2>
 
-Senior Data Scientist at Wiredhut.
+Senior software developer at Wärtsilä.
 My skills are related to the spatio-temporal data analysis. 
 But I also do the typical Data Science tasks :) 
 
