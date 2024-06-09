@@ -3,12 +3,9 @@
 <h2 align="center">Software developer and ML engineer </h2>
 
 Senior software developer at Wärtsilä.
-My skills are related to the spatio-temporal data analysis. 
-But I also do the typical Data Science tasks :) 
+I write Python code and know how to organize pipelines (backend development) for machine learning (ML) and data analysis (Data Science).
 
-I have experience in backend development, can do simple one-page websites (fronted skills). Well skilled 
-in architecture design and programming in general (patterns, OOP, SOLID, TDD, git) and ML systems in particular. My 
-main focus is a "combination of machine learning and backend development" using Python. Experienced in R&D (have more than 30 publications).
+Well skilled in architecture design and programming in general (patterns, OOP, SOLID, TDD, git) and ML systems in particular. Experienced in R&D (have more than 30 publications).
 
 My tech stack: [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), 
 [scikit-learn](https://scikit-learn.org/stable/), [networkx](https://networkx.org/), [PyTorch](https://pytorch.org/), [MLFlow](https://mlflow.org/), [Dask](https://www.dask.org/), [SQLAlchemy](https://www.sqlalchemy.org/), [alembic](https://alembic.sqlalchemy.org/en/latest/),
