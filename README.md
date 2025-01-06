@@ -58,3 +58,18 @@ My accounts on other platforms: [scholar.google](https://scholar.google.com/cita
 ![Metrics](/github-metrics.svg)
 
 ![](https://komarev.com/ghpvc/?username=Dreamlone)
+
+Some results of the machine learning & data analysis competitions I have participated in: 
+
+| **Competition**                                                                                                                                                                       | **Date**       | **Rank / total number of participants** | **top %** |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------|-----------|
+| Changellenge Cup IT 2020: Data Science                                                                                                                                                | March 2020     | **5** / 20                              | 25        |
+| [Emergency DataHack 2021: Predicting the increase in the maximum water level on the Lena River during the spring period](https://mchs.gov.ru/deyatelnost/press-centr/novosti/4476158) | May 2021       | **1** / 15                              | -         |
+| [STAC Overflow: Map Floodwater from Radar Imagery](https://www.drivendata.org/competitions/81/detect-flood-water/)                                                                    | September 2021 | **33** / 608                            | 5         |
+| [On Cloud N: Cloud Cover Detection Challenge](https://www.drivendata.org/competitions/83/cloud-cover/)                                                                                | February 2022  | **54** / 790                            | 7         |
+| [Snowcast Showdown](https://www.drivendata.org/competitions/86/competition-reclamation-snow-water-dev/)                                                                               | March 2022     | **49** / 1017                           | 5         |
+| [Date Challenge “Moscow Transport”](https://mosdatachallenge.tilda.ws/)                                                                                                               | January 2023   | **1** / 10                              | -         |
+| [The BioMassters](https://www.drivendata.org/competitions/99/biomass-estimation)                                                                                                      | January 2023   | **55** / 911                            | 6         |
+| [Ultrahack Beyond Dead Wood Hackathon](https://new.ultrahack.org/hackathons/beyond-dead-wood-hackathon)                                                                               | March 2024     | **2** / 13                              | 15        |
+| [Water Supply Forecast Rodeo](https://www.drivendata.org/competitions/group/reclamation-water-supply-forecast/)                                                                       | August 2024    | **14** / 510                            | 3         |
+| [The Performance Review Commission (PRC) Data Challenge](https://ansperformance.eu/study/data-challenge/)                                                                             | November 2024  | **22** / 132                            | 17        |
