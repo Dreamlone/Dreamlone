@@ -24,6 +24,8 @@ Some open-source developments in which I have been or am involved:
 I write, along with my colleagues, posts on Towards Data Science, Medium and Habr. 
 
 Towards Data Science:
+
+- [A Visual Explanation of Linear Regression](https://towardsdatascience.com/a-visual-explanation-of-the-linear-regression/) (eng)
 - [Stream Ordering: How And Why a Geo-Scientist Sometimes Needed to Rank Rivers on a Map](https://medium.com/towards-data-science/stream-ordering-how-and-why-a-geo-scientist-sometimes-needed-to-rank-rivers-on-a-map-360dce356df5) (eng)
 - [A Data Science Course Project About Crop Yield and Price Prediction I’m Still Not Ashamed Of](https://medium.com/towards-data-science/a-data-science-course-project-about-crop-yield-and-price-prediction-im-still-not-ashamed-of-75712dc8696f) (eng)
 - [Almost Everything You Want to Know About Partition Size of Dask Dataframes](https://medium.com/towards-data-science/almost-everything-you-want-to-know-about-partition-size-of-dask-dataframes-ac1b136d7674) (eng)
@@ -38,9 +40,12 @@ Towards Data Science:
 - [AutoML for time series: definitely a good idea](https://towardsdatascience.com/automl-for-time-series-definitely-a-good-idea-c51d39b2b3f) (eng) - NSS Lab post
 
 Medium:
+
 - [The Algorithm for Ranking the Segments of the River Network for Geographic Information Analysis Based on Graphs](https://medium.com/swlh/the-algorithm-for-ranking-the-segments-of-the-river-network-for-geographic-information-analysis-b25cffb0d167?sk=f1475802bd96f8d14c994a6f87f7453d) (eng)
 
 Habr:
+
+- [Как бы я рассказал про линейную регрессию (если б меня кто-то спросил)](https://habr.com/ru/articles/1013998/) (rus)
 - [Все реки в порядке: как и зачем в географических науках ранжируют водотоки](https://habr.com/ru/articles/830334/) (rus)
 - [Data Scientist in Helsinki. Мое небольшое исследование про поиск работы в Финляндии в 2024 году](https://habr.com/ru/articles/792620/) (rus)
 - [“Ну и долго мне ещё до магазина?” Или пара слов о геоинформационном анализе с помощью Python](https://habr.com/ru/articles/770216/) (rus)
