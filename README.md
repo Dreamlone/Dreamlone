@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Mike </h1>
 
-<h2 align="center">Software developer and ML engineer </h2>
+<h2 align="center">Software developer and AI engineer </h2>
 
-Senior software developer at Wärtsilä.
-I write Python code and know how to organize pipelines (backend development) for machine learning (ML) and data analysis (Data Science).
+AI engineer at Huawei.
+I write Python code and know how to organize pipelines (backend development) for machine learning (ML) and data analysis (Data Science) & agents (AI).
 
 Well skilled in architecture design and programming in general (patterns, OOP, SOLID, TDD, git) and ML systems in particular. Experienced in R&D (have more than 30 publications).
 
-My tech stack: [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/), 
+My tech stack: [Python](https://www.python.org/), [FastAPI](https://fastapi.tiangolo.com/),
 [scikit-learn](https://scikit-learn.org/stable/), [networkx](https://networkx.org/), [PyTorch](https://pytorch.org/), [MLFlow](https://mlflow.org/), [Dask](https://www.dask.org/), [SQLAlchemy](https://www.sqlalchemy.org/), [alembic](https://alembic.sqlalchemy.org/en/latest/),
-[docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/), 
+[docker](https://www.docker.com/), [PostgreSQL](https://www.postgresql.org/),
 [MongoDB](https://www.mongodb.com/), [GDAL](https://gdal.org/), [QGIS](https://qgis.org/en/site/), [LaTex](https://www.latex-project.org/) etc.
 
 Some open-source developments in which I have been or am involved:
@@ -21,7 +21,7 @@ Some open-source developments in which I have been or am involved:
    relations [SSGP-toolbox](https://github.com/Dreamlone/SSGP-toolbox)
 - [x] QGIS plugin for river stream ordering (or any vector linear system) [Lines Ranking](https://github.com/ChrisLisbon/QGIS_LinesRankingPlugin)
 
-I write, along with my colleagues, posts on Towards Data Science, Medium and Habr. 
+I write, along with my colleagues, posts on Towards Data Science, Medium and Habr.
 
 Towards Data Science:
 
@@ -41,10 +41,12 @@ Towards Data Science:
 
 Medium:
 
+- [How Do You Handle Technical Onboarding?](https://medium.com/@mik.sarafanov/how-do-you-handle-technical-onboarding-ce641fb2c30d?sharedUserId=mik.sarafanov)
 - [The Algorithm for Ranking the Segments of the River Network for Geographic Information Analysis Based on Graphs](https://medium.com/swlh/the-algorithm-for-ranking-the-segments-of-the-river-network-for-geographic-information-analysis-b25cffb0d167?sk=f1475802bd96f8d14c994a6f87f7453d) (eng)
 
 Habr:
 
+- [А как вы проводите технический онбординг?](https://habr.com/ru/articles/1084100/)
 - [Как бы я рассказал про линейную регрессию (если б меня кто-то спросил)](https://habr.com/ru/articles/1013998/) (rus)
 - [Все реки в порядке: как и зачем в географических науках ранжируют водотоки](https://habr.com/ru/articles/830334/) (rus)
 - [Data Scientist in Helsinki. Мое небольшое исследование про поиск работы в Финляндии в 2024 году](https://habr.com/ru/articles/792620/) (rus)
@@ -52,9 +54,9 @@ Habr:
 - [Объединение открытых данных Open Street Map и Landsat для уточнения площадей зеленых зон](https://habr.com/ru/articles/764686/) (rus)
 - [Что делать, если твой временной ряд растёт вширь](https://habr.com/ru/post/696336/) (rus) - NSS Lab post
 - [Про настройку гиперпараметров ансамблей моделей машинного обучения](https://habr.com/ru/post/672486/) (rus) - NSS Lab post
-- [Чистый AutoML для “грязных” данных: как и зачем автоматизировать предобработку таблиц в машинном обучении](https://habr.com/ru/company/ods/blog/657525/) (rus) - NSS Lab post 
-- [Как мы “повернули реки вспять” на Emergency DataHack 2021, объединив гидрологию и AutoML](https://habr.com/ru/post/577886/) (rus) - NSS Lab post 
-- [Прогнозирование временных рядов с помощью AutoML](https://habr.com/ru/post/559796/) (rus) - NSS Lab post 
+- [Чистый AutoML для “грязных” данных: как и зачем автоматизировать предобработку таблиц в машинном обучении](https://habr.com/ru/company/ods/blog/657525/) (rus) - NSS Lab post
+- [Как мы “повернули реки вспять” на Emergency DataHack 2021, объединив гидрологию и AutoML](https://habr.com/ru/post/577886/) (rus) - NSS Lab post
+- [Прогнозирование временных рядов с помощью AutoML](https://habr.com/ru/post/559796/) (rus) - NSS Lab post
 - [Алгоритм ранжирования сегментов речной сети с использованием графов для геоинформационного анализа](https://habr.com/ru/post/514526/) (rus)
 
 My accounts on other platforms: [scholar.google](https://scholar.google.com/citations?user=zHMQXt8AAAAJ&hl=eng), [kaggle](https://www.kaggle.com/dreamlone), [drivendata](https://www.drivendata.org/users/Dreamlone/)
@@ -64,7 +66,7 @@ My accounts on other platforms: [scholar.google](https://scholar.google.com/cita
 
 ![](https://komarev.com/ghpvc/?username=Dreamlone)
 
-Some results of the machine learning & data analysis competitions I have participated in: 
+Some results of the machine learning & data analysis competitions I have participated in:
 
 | **Competition**                                                                                                                                                                       | **Date**       | **Rank / total number of participants** | **top %** |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|-----------------------------------------|-----------|
